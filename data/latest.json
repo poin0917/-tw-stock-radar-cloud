@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09 07:20:27",
-  "analyzed_count": 192,
+  "generated_at": "2026-09-10 07:20:12",
+  "analyzed_count": 190,
   "quality_count": 3,
   "results": [
     {
@@ -8,54 +8,52 @@
       "ticker": "2344.TW",
       "name": "華邦電",
       "market": "上市",
-      "score": 100,
-      "grade": "S級首選",
-      "close": 188.0,
-      "entry_low": 185.18,
-      "entry_high": 189.88,
-      "stop": 176.72,
-      "resistance": 199.28,
+      "score": 87,
+      "grade": "A+主選",
+      "close": 183.0,
+      "entry_low": 180.25,
+      "entry_high": 184.83,
+      "stop": 172.02,
+      "resistance": 193.98,
       "win_rate": 60.9,
       "signals": 46,
       "avg_return": 10.84,
-      "daily_score": 80,
-      "score_60m": 15,
+      "daily_score": 65,
+      "score_60m": 10,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
         "MACD轉強",
-        "MACD綠柱縮短",
         "J值上彎",
-        "J值低檔轉強",
         "量能健康",
-        "價漲量增",
-        "量縮後回溫",
-        "乖離合理"
+        "乖離合理",
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 27407.5
+      "avg_value_m": 26856.7
     },
     {
       "code": "2408",
       "ticker": "2408.TW",
       "name": "南亞科",
       "market": "上市",
-      "score": 99,
+      "score": 83,
       "grade": "A級主選",
-      "close": 531.0,
-      "entry_low": 523.03,
-      "entry_high": 536.31,
-      "stop": 499.14,
+      "close": 523.0,
+      "entry_low": 520.45,
+      "entry_high": 528.23,
+      "stop": 491.62,
       "resistance": 569.0,
       "win_rate": 57.1,
       "signals": 56,
       "avg_return": 11.49,
-      "daily_score": 73,
-      "score_60m": 15,
+      "daily_score": 62,
+      "score_60m": 10,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
@@ -64,50 +62,49 @@
         "MACD轉強",
         "MACD綠柱縮短",
         "J值上彎",
-        "J值低檔轉強",
-        "量能健康",
-        "量縮後回溫",
         "乖離合理",
-        "60分K站上MA10"
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 42226.2
+      "avg_value_m": 40963.7
     },
     {
-      "code": "2360",
-      "ticker": "2360.TW",
-      "name": "致茂",
+      "code": "2316",
+      "ticker": "2316.TW",
+      "name": "楠梓電",
       "market": "上市",
-      "score": 69,
-      "grade": "B級觀察",
-      "close": 2265.0,
-      "entry_low": 2231.03,
-      "entry_high": 2287.65,
-      "stop": 2117.0,
-      "resistance": 2400.9,
-      "win_rate": 51.9,
-      "signals": 77,
-      "avg_return": 8.52,
-      "daily_score": 45,
+      "score": 78,
+      "grade": "A級主選",
+      "close": 161.0,
+      "entry_low": 159.8,
+      "entry_high": 162.61,
+      "stop": 151.34,
+      "resistance": 171.0,
+      "win_rate": 55.6,
+      "signals": 36,
+      "avg_return": 8.98,
+      "daily_score": 53,
       "score_60m": 15,
       "reasons": [
         "站上MA10",
-        "MA20>MA60",
-        "MA10上彎",
+        "MA10>MA20",
         "MACD轉強",
         "J值上彎",
-        "價漲量增",
+        "J值低檔轉強",
+        "量能健康",
         "量縮後回溫",
+        "乖離合理",
         "60分K站上MA10",
         "60分K MA10>MA20",
         "60分K MA10上彎"
       ],
       "risks": [
-        "短線乖離過大"
+        "暫無明顯警訊"
       ],
-      "avg_value_m": 4338.0
+      "avg_value_m": 340.2
     }
   ]
 }
