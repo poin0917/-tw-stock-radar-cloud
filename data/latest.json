@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 07:19:59",
+  "generated_at": "2026-09-16 07:19:57",
   "analyzed_count": 181,
   "quality_count": 1,
   "results": [
@@ -8,36 +8,34 @@
       "ticker": "2887.TW",
       "name": "台新新光金",
       "market": "上市",
-      "score": 100,
-      "grade": "A級主選",
-      "close": 43.55,
-      "entry_low": 42.9,
-      "entry_high": 43.99,
-      "stop": 39.51,
-      "resistance": 46.16,
-      "win_rate": 50.6,
-      "signals": 81,
-      "avg_return": 2.25,
-      "daily_score": 73,
-      "score_60m": 24,
+      "score": 77,
+      "grade": "B級觀察",
+      "close": 43.4,
+      "entry_low": 42.75,
+      "entry_high": 43.83,
+      "stop": 39.83,
+      "resistance": 46.0,
+      "win_rate": 51.2,
+      "signals": 82,
+      "avg_return": 2.32,
+      "daily_score": 54,
+      "score_60m": 15,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
-        "MACD轉強",
-        "J值上彎",
+        "量能健康",
         "量縮後回溫",
-        "突破20日高",
-        "突破60日高",
         "乖離合理",
         "60分K站上MA10",
-        "60分K MA10>MA20"
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 2356.7
+      "avg_value_m": 2335.4
     }
   ]
 }
