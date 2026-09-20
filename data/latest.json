@@ -1,40 +1,108 @@
 {
-  "generated_at": "2026-09-18 07:18:31",
-  "analyzed_count": 184,
-  "quality_count": 1,
+  "generated_at": "2026-09-21 07:19:34",
+  "analyzed_count": 178,
+  "quality_count": 3,
   "results": [
     {
-      "code": "2887",
-      "ticker": "2887.TW",
-      "name": "台新新光金",
+      "code": "2313",
+      "ticker": "2313.TW",
+      "name": "華通",
       "market": "上市",
-      "score": 73,
-      "grade": "B級觀察",
-      "close": 44.05,
-      "entry_low": 43.39,
-      "entry_high": 44.49,
-      "stop": 40.64,
-      "resistance": 46.69,
-      "win_rate": 53.0,
-      "signals": 83,
-      "avg_return": 2.47,
-      "daily_score": 49,
-      "score_60m": 15,
+      "score": 82,
+      "grade": "A級主選",
+      "close": 247.0,
+      "entry_low": 243.29,
+      "entry_high": 249.47,
+      "stop": 232.18,
+      "resistance": 261.82,
+      "win_rate": 50.0,
+      "signals": 58,
+      "avg_return": 4.67,
+      "daily_score": 50,
+      "score_60m": 24,
       "reasons": [
         "站上MA10",
-        "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
-        "量能健康",
-        "乖離合理",
+        "MACD轉強",
+        "MACD綠柱縮短",
+        "J值上彎",
+        "J值低檔轉強",
         "60分K站上MA10",
         "60分K MA10>MA20",
-        "60分K MA10上彎"
+        "60分K MA10上彎",
+        "60分K MACD轉強",
+        "60分K J值上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 2404.4
+      "avg_value_m": 7827.5
+    },
+    {
+      "code": "2308",
+      "ticker": "2308.TW",
+      "name": "台達電",
+      "market": "上市",
+      "score": 71,
+      "grade": "B級觀察",
+      "close": 1810.0,
+      "entry_low": 1782.85,
+      "entry_high": 1828.1,
+      "stop": 1701.4,
+      "resistance": 1918.6,
+      "win_rate": 60.6,
+      "signals": 71,
+      "avg_return": 6.52,
+      "daily_score": 35,
+      "score_60m": 24,
+      "reasons": [
+        "站上MA10",
+        "MACD轉強",
+        "J值上彎",
+        "60分K站上MA10",
+        "60分K MA10>MA20",
+        "60分K MA10上彎",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "暫無明顯警訊"
+      ],
+      "avg_value_m": 16809.0
+    },
+    {
+      "code": "2316",
+      "ticker": "2316.TW",
+      "name": "楠梓電",
+      "market": "上市",
+      "score": 71,
+      "grade": "B級觀察",
+      "close": 163.0,
+      "entry_low": 160.56,
+      "entry_high": 164.63,
+      "stop": 153.22,
+      "resistance": 172.78,
+      "win_rate": 54.1,
+      "signals": 37,
+      "avg_return": 8.74,
+      "daily_score": 48,
+      "score_60m": 14,
+      "reasons": [
+        "站上MA10",
+        "MA10上彎",
+        "MACD轉強",
+        "J值上彎",
+        "J值低檔轉強",
+        "乖離合理",
+        "60分K站上MA10",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "暫無明顯警訊"
+      ],
+      "avg_value_m": 260.0
     }
   ]
 }
