@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08 10:41:23",
-  "analyzed_count": 181,
+  "generated_at": "2026-10-09 10:56:24",
+  "analyzed_count": 182,
   "quality_count": 4,
   "results": [
     {
@@ -8,18 +8,18 @@
       "ticker": "2408.TW",
       "name": "南亞科",
       "market": "上市",
-      "score": 91,
+      "score": 100,
       "grade": "A級主選",
-      "close": 529.0,
-      "entry_low": 521.06,
-      "entry_high": 534.29,
-      "stop": 497.26,
-      "resistance": 560.74,
-      "win_rate": 50.8,
-      "signals": 61,
-      "avg_return": 9.56,
-      "daily_score": 65,
-      "score_60m": 18,
+      "close": 532.0,
+      "entry_low": 524.02,
+      "entry_high": 537.32,
+      "stop": 500.08,
+      "resistance": 563.92,
+      "win_rate": 51.7,
+      "signals": 60,
+      "avg_return": 9.62,
+      "daily_score": 75,
+      "score_60m": 17,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
@@ -28,42 +28,74 @@
         "MACD轉強",
         "J值上彎",
         "量能健康",
+        "價漲量增",
         "量縮後回溫",
         "乖離合理",
         "60分K站上MA10",
-        "60分K MACD轉強",
-        "60分K綠柱縮短"
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 20721.4
+      "avg_value_m": 21246.5
     },
     {
-      "code": "2313",
-      "ticker": "2313.TW",
-      "name": "華通",
+      "code": "2472",
+      "ticker": "2472.TW",
+      "name": "立隆電",
       "market": "上市",
-      "score": 83,
+      "score": 81,
       "grade": "A級主選",
-      "close": 250.0,
-      "entry_low": 246.25,
-      "entry_high": 252.5,
-      "stop": 228.82,
-      "resistance": 265.0,
-      "win_rate": 53.7,
-      "signals": 54,
-      "avg_return": 5.39,
-      "daily_score": 49,
-      "score_60m": 25,
+      "close": 243.5,
+      "entry_low": 239.85,
+      "entry_high": 245.94,
+      "stop": 219.4,
+      "resistance": 258.11,
+      "win_rate": 51.7,
+      "signals": 60,
+      "avg_return": 8.73,
+      "daily_score": 48,
+      "score_60m": 24,
+      "reasons": [
+        "站上MA10",
+        "MA10>MA20",
+        "MA10上彎",
+        "MACD轉強",
+        "J值上彎",
+        "60分K站上MA10",
+        "60分K MA10>MA20",
+        "60分K MA10上彎",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "暫無明顯警訊"
+      ],
+      "avg_value_m": 678.5
+    },
+    {
+      "code": "2308",
+      "ticker": "2308.TW",
+      "name": "台達電",
+      "market": "上市",
+      "score": 70,
+      "grade": "B級觀察",
+      "close": 1965.0,
+      "entry_low": 1935.52,
+      "entry_high": 1984.65,
+      "stop": 1831.0,
+      "resistance": 2115.0,
+      "win_rate": 60.6,
+      "signals": 71,
+      "avg_return": 6.52,
+      "daily_score": 45,
+      "score_60m": 13,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
-        "MACD轉強",
-        "60分K站上MA10",
-        "60分K MA10>MA20",
+        "乖離合理",
         "60分K MACD轉強",
         "60分K綠柱縮短",
         "60分K J值上彎"
@@ -71,30 +103,31 @@
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 5324.1
+      "avg_value_m": 19951.8
     },
     {
-      "code": "2308",
-      "ticker": "2308.TW",
-      "name": "台達電",
+      "code": "2316",
+      "ticker": "2316.TW",
+      "name": "楠梓電",
       "market": "上市",
-      "score": 68,
+      "score": 70,
       "grade": "B級觀察",
-      "close": 1970.0,
-      "entry_low": 1940.45,
-      "entry_high": 1989.7,
-      "stop": 1831.25,
-      "resistance": 2115.0,
-      "win_rate": 60.6,
-      "signals": 71,
-      "avg_return": 6.52,
-      "daily_score": 45,
+      "close": 171.0,
+      "entry_low": 168.44,
+      "entry_high": 172.71,
+      "stop": 160.74,
+      "resistance": 191.0,
+      "win_rate": 56.8,
+      "signals": 37,
+      "avg_return": 9.23,
+      "daily_score": 49,
       "score_60m": 11,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
+        "量能健康",
         "乖離合理",
         "60分K MA10>MA20",
         "60分K J值上彎"
@@ -102,39 +135,7 @@
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 19679.8
-    },
-    {
-      "code": "2472",
-      "ticker": "2472.TW",
-      "name": "立隆電",
-      "market": "上市",
-      "score": 68,
-      "grade": "B級觀察",
-      "close": 237.0,
-      "entry_low": 233.44,
-      "entry_high": 239.37,
-      "stop": 219.07,
-      "resistance": 251.22,
-      "win_rate": 51.7,
-      "signals": 60,
-      "avg_return": 8.82,
-      "daily_score": 44,
-      "score_60m": 15,
-      "reasons": [
-        "站上MA10",
-        "MA10>MA20",
-        "MA10上彎",
-        "量能健康",
-        "乖離合理",
-        "60分K站上MA10",
-        "60分K MA10>MA20",
-        "60分K MA10上彎"
-      ],
-      "risks": [
-        "暫無明顯警訊"
-      ],
-      "avg_value_m": 634.0
+      "avg_value_m": 329.2
     }
   ]
 }
