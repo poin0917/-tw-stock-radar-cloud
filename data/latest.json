@@ -1,43 +1,75 @@
 {
-  "generated_at": "2026-10-13 11:32:38",
-  "analyzed_count": 182,
-  "quality_count": 1,
+  "generated_at": "2026-10-14 09:51:28",
+  "analyzed_count": 187,
+  "quality_count": 2,
   "results": [
     {
-      "code": "2468",
-      "ticker": "2468.TW",
-      "name": "華經",
+      "code": "2360",
+      "ticker": "2360.TW",
+      "name": "致茂",
       "market": "上市",
-      "score": 91,
-      "grade": "S級首選",
-      "close": 47.3,
-      "entry_low": 46.59,
-      "entry_high": 47.77,
-      "stop": 43.11,
-      "resistance": 50.14,
-      "win_rate": 62.5,
-      "signals": 8,
-      "avg_return": 8.21,
-      "daily_score": 70,
-      "score_60m": 15,
+      "score": 73,
+      "grade": "B級觀察",
+      "close": 2300.0,
+      "entry_low": 2267.5,
+      "entry_high": 2323.0,
+      "stop": 2162.0,
+      "resistance": 2560.0,
+      "win_rate": 50.6,
+      "signals": 79,
+      "avg_return": 8.35,
+      "daily_score": 47,
+      "score_60m": 18,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
-        "MACD轉強",
-        "MACD綠柱縮短",
         "J值上彎",
         "J值低檔轉強",
-        "價漲量增",
-        "量縮後回溫",
+        "乖離合理",
         "60分K站上MA10",
-        "60分K MA10>MA20"
+        "60分K MACD轉強",
+        "60分K綠柱縮短",
+        "60分K J值上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 329.1
+      "avg_value_m": 5009.6
+    },
+    {
+      "code": "2493",
+      "ticker": "2493.TW",
+      "name": "揚博",
+      "market": "上市",
+      "score": 73,
+      "grade": "B級觀察",
+      "close": 213.5,
+      "entry_low": 210.3,
+      "entry_high": 215.63,
+      "stop": 198.82,
+      "resistance": 229.0,
+      "win_rate": 50.0,
+      "signals": 28,
+      "avg_return": 13.15,
+      "daily_score": 45,
+      "score_60m": 20,
+      "reasons": [
+        "站上MA10",
+        "MA10>MA20",
+        "MA20>MA60",
+        "MA10上彎",
+        "乖離合理",
+        "60分K MA10>MA20",
+        "60分K MACD轉強",
+        "60分K綠柱縮短",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "暫無明顯警訊"
+      ],
+      "avg_value_m": 559.7
     }
   ]
 }
