@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-14 09:51:28",
+  "generated_at": "2026-10-15 09:26:26",
   "analyzed_count": 187,
   "quality_count": 2,
   "results": [
     {
-      "code": "2360",
-      "ticker": "2360.TW",
-      "name": "致茂",
+      "code": "2316",
+      "ticker": "2316.TW",
+      "name": "楠梓電",
       "market": "上市",
-      "score": 73,
+      "score": 75,
       "grade": "B級觀察",
-      "close": 2300.0,
-      "entry_low": 2267.5,
-      "entry_high": 2323.0,
-      "stop": 2162.0,
-      "resistance": 2560.0,
-      "win_rate": 50.6,
-      "signals": 79,
-      "avg_return": 8.35,
-      "daily_score": 47,
-      "score_60m": 18,
+      "close": 171.5,
+      "entry_low": 171.05,
+      "entry_high": 173.22,
+      "stop": 161.21,
+      "resistance": 191.0,
+      "win_rate": 57.9,
+      "signals": 38,
+      "avg_return": 9.07,
+      "daily_score": 51,
+      "score_60m": 13,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
@@ -29,47 +29,47 @@
         "J值低檔轉強",
         "乖離合理",
         "60分K站上MA10",
-        "60分K MACD轉強",
-        "60分K綠柱縮短",
-        "60分K J值上彎"
+        "60分K MA10上彎",
+        "60分K MACD轉強"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 5009.6
+      "avg_value_m": 341.1
     },
     {
-      "code": "2493",
-      "ticker": "2493.TW",
-      "name": "揚博",
+      "code": "2468",
+      "ticker": "2468.TW",
+      "name": "華經",
       "market": "上市",
-      "score": 73,
+      "score": 71,
       "grade": "B級觀察",
-      "close": 213.5,
-      "entry_low": 210.3,
-      "entry_high": 215.63,
-      "stop": 198.82,
-      "resistance": 229.0,
-      "win_rate": 50.0,
-      "signals": 28,
-      "avg_return": 13.15,
-      "daily_score": 45,
-      "score_60m": 20,
+      "close": 47.85,
+      "entry_low": 47.13,
+      "entry_high": 48.33,
+      "stop": 44.62,
+      "resistance": 50.72,
+      "win_rate": 62.5,
+      "signals": 8,
+      "avg_return": 8.21,
+      "daily_score": 41,
+      "score_60m": 24,
       "reasons": [
         "站上MA10",
-        "MA10>MA20",
         "MA20>MA60",
         "MA10上彎",
-        "乖離合理",
+        "MACD轉強",
+        "J值上彎",
+        "60分K站上MA10",
         "60分K MA10>MA20",
+        "60分K MA10上彎",
         "60分K MACD轉強",
-        "60分K綠柱縮短",
         "60分K J值上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 559.7
+      "avg_value_m": 353.4
     }
   ]
 }
