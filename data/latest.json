@@ -1,25 +1,61 @@
 {
-  "generated_at": "2026-10-16 09:15:33",
-  "analyzed_count": 190,
-  "quality_count": 1,
+  "generated_at": "2026-10-19 09:08:55",
+  "analyzed_count": 192,
+  "quality_count": 2,
   "results": [
     {
-      "code": "2468",
-      "ticker": "2468.TW",
-      "name": "華經",
+      "code": "2313",
+      "ticker": "2313.TW",
+      "name": "華通",
       "market": "上市",
-      "score": 78,
+      "score": 90,
       "grade": "A級主選",
-      "close": 46.5,
-      "entry_low": 45.8,
-      "entry_high": 46.97,
-      "stop": 43.71,
-      "resistance": 49.45,
-      "win_rate": 62.5,
-      "signals": 8,
-      "avg_return": 8.21,
-      "daily_score": 60,
-      "score_60m": 12,
+      "close": 248.0,
+      "entry_low": 244.28,
+      "entry_high": 250.48,
+      "stop": 233.12,
+      "resistance": 262.88,
+      "win_rate": 54.7,
+      "signals": 53,
+      "avg_return": 5.6,
+      "daily_score": 66,
+      "score_60m": 14,
+      "reasons": [
+        "站上MA10",
+        "MA10>MA20",
+        "MA20>MA60",
+        "MA10上彎",
+        "MACD轉強",
+        "J值上彎",
+        "J值低檔轉強",
+        "價漲量增",
+        "乖離合理",
+        "60分K站上MA10",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "暫無明顯警訊"
+      ],
+      "avg_value_m": 6801.8
+    },
+    {
+      "code": "2887",
+      "ticker": "2887.TW",
+      "name": "台新新光金",
+      "market": "上市",
+      "score": 75,
+      "grade": "B級觀察",
+      "close": 42.45,
+      "entry_low": 41.87,
+      "entry_high": 42.87,
+      "stop": 39.9,
+      "resistance": 45.0,
+      "win_rate": 51.2,
+      "signals": 84,
+      "avg_return": 2.18,
+      "daily_score": 53,
+      "score_60m": 14,
       "reasons": [
         "站上MA10",
         "MA20>MA60",
@@ -28,15 +64,15 @@
         "MACD綠柱縮短",
         "J值上彎",
         "量能健康",
-        "價漲量增",
-        "量縮後回溫",
+        "乖離合理",
         "60分K站上MA10",
-        "60分K MA10>MA20"
+        "60分K MACD轉強",
+        "60分K綠柱縮短"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 381.1
+      "avg_value_m": 2274.8
     }
   ]
 }
