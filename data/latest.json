@@ -1,78 +1,39 @@
 {
-  "generated_at": "2026-10-19 09:08:55",
-  "analyzed_count": 192,
-  "quality_count": 2,
+  "generated_at": "2026-10-20 09:44:50",
+  "analyzed_count": 188,
+  "quality_count": 1,
   "results": [
     {
       "code": "2313",
       "ticker": "2313.TW",
       "name": "華通",
       "market": "上市",
-      "score": 90,
-      "grade": "A級主選",
-      "close": 248.0,
-      "entry_low": 244.28,
-      "entry_high": 250.48,
-      "stop": 233.12,
-      "resistance": 262.88,
+      "score": 73,
+      "grade": "B級觀察",
+      "close": 248.5,
+      "entry_low": 246.45,
+      "entry_high": 250.99,
+      "stop": 233.59,
+      "resistance": 263.41,
       "win_rate": 54.7,
       "signals": 53,
       "avg_return": 5.6,
-      "daily_score": 66,
-      "score_60m": 14,
+      "daily_score": 48,
+      "score_60m": 15,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
         "MA20>MA60",
-        "MA10上彎",
-        "MACD轉強",
         "J值上彎",
-        "J值低檔轉強",
-        "價漲量增",
         "乖離合理",
         "60分K站上MA10",
-        "60分K MACD轉強",
-        "60分K J值上彎"
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 6801.8
-    },
-    {
-      "code": "2887",
-      "ticker": "2887.TW",
-      "name": "台新新光金",
-      "market": "上市",
-      "score": 75,
-      "grade": "B級觀察",
-      "close": 42.45,
-      "entry_low": 41.87,
-      "entry_high": 42.87,
-      "stop": 39.9,
-      "resistance": 45.0,
-      "win_rate": 51.2,
-      "signals": 84,
-      "avg_return": 2.18,
-      "daily_score": 53,
-      "score_60m": 14,
-      "reasons": [
-        "站上MA10",
-        "MA20>MA60",
-        "MA10上彎",
-        "MACD轉強",
-        "MACD綠柱縮短",
-        "J值上彎",
-        "量能健康",
-        "乖離合理",
-        "60分K站上MA10",
-        "60分K MACD轉強",
-        "60分K綠柱縮短"
-      ],
-      "risks": [
-        "暫無明顯警訊"
-      ],
-      "avg_value_m": 2274.8
+      "avg_value_m": 6738.8
     }
   ]
 }
