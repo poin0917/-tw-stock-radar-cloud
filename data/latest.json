@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-22 09:28:08",
-  "analyzed_count": 188,
+  "generated_at": "2026-10-23 09:27:23",
+  "analyzed_count": 191,
   "quality_count": 2,
   "results": [
     {
-      "code": "1711",
-      "ticker": "1711.TW",
-      "name": "永光",
+      "code": "2468",
+      "ticker": "2468.TW",
+      "name": "華經",
       "market": "上市",
-      "score": 87,
+      "score": 81,
       "grade": "A級主選",
-      "close": 47.75,
-      "entry_low": 47.03,
-      "entry_high": 48.23,
-      "stop": 43.54,
-      "resistance": 51.8,
-      "win_rate": 50.0,
-      "signals": 40,
-      "avg_return": 5.08,
-      "daily_score": 55,
+      "close": 55.0,
+      "entry_low": 54.17,
+      "entry_high": 55.55,
+      "stop": 46.21,
+      "resistance": 58.3,
+      "win_rate": 25.0,
+      "signals": 4,
+      "avg_return": -2.59,
+      "daily_score": 60,
       "score_60m": 24,
       "reasons": [
         "站上MA10",
@@ -27,52 +27,51 @@
         "MA10上彎",
         "MACD轉強",
         "J值上彎",
-        "J值低檔轉強",
+        "價漲量增",
+        "量縮後回溫",
+        "突破20日高",
+        "突破60日高",
         "60分K站上MA10",
-        "60分K MA10>MA20",
-        "60分K MA10上彎",
-        "60分K MACD轉強",
-        "60分K J值上彎"
+        "60分K MA10>MA20"
       ],
       "risks": [
-        "暫無明顯警訊"
+        "短線乖離過大"
       ],
-      "avg_value_m": 622.3
+      "avg_value_m": 351.2
     },
     {
-      "code": "2383",
-      "ticker": "2383.TW",
-      "name": "台光電",
+      "code": "2887",
+      "ticker": "2887.TW",
+      "name": "台新新光金",
       "market": "上市",
-      "score": 80,
-      "grade": "A級主選",
-      "close": 5485.0,
-      "entry_low": 5404.5,
-      "entry_high": 5539.85,
-      "stop": 5155.9,
-      "resistance": 6325.0,
-      "win_rate": 52.5,
-      "signals": 80,
-      "avg_return": 5.5,
-      "daily_score": 54,
-      "score_60m": 17,
+      "score": 71,
+      "grade": "B級觀察",
+      "close": 42.1,
+      "entry_low": 42.11,
+      "entry_high": 42.52,
+      "stop": 39.57,
+      "resistance": 44.63,
+      "win_rate": 51.2,
+      "signals": 84,
+      "avg_return": 2.18,
+      "daily_score": 48,
+      "score_60m": 15,
       "reasons": [
-        "站上MA10",
         "MA10>MA20",
+        "MA20>MA60",
         "MACD轉強",
         "MACD綠柱縮短",
         "J值上彎",
         "J值低檔轉強",
-        "乖離合理",
+        "量能健康",
         "60分K站上MA10",
-        "60分K MA10上彎",
-        "60分K MACD轉強",
-        "60分K J值上彎"
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
       ],
       "risks": [
         "暫無明顯警訊"
       ],
-      "avg_value_m": 12278.1
+      "avg_value_m": 1920.0
     }
   ]
 }
