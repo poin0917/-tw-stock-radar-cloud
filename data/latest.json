@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-11-02 10:24:25",
-  "analyzed_count": 183,
-  "quality_count": 1,
-  "results": [
-    {
-      "code": "2468",
-      "ticker": "2468.TW",
-      "name": "華經",
-      "market": "上市",
-      "score": 82,
-      "grade": "A級主選",
-      "close": 58.5,
-      "entry_low": 57.62,
-      "entry_high": 59.09,
-      "stop": 48.87,
-      "resistance": 62.01,
-      "win_rate": 50.0,
-      "signals": 6,
-      "avg_return": 6.82,
-      "daily_score": 65,
-      "score_60m": 17,
-      "reasons": [
-        "站上MA10",
-        "MA10>MA20",
-        "MA20>MA60",
-        "MA10上彎",
-        "MACD轉強",
-        "J值上彎",
-        "J值低檔轉強",
-        "價漲量增",
-        "突破20日高",
-        "突破60日高",
-        "60分K站上MA10",
-        "60分K MA10上彎"
-      ],
-      "risks": [
-        "短線乖離過大"
-      ],
-      "avg_value_m": 623.9
-    }
-  ]
+  "generated_at": "2026-11-03 11:55:55",
+  "analyzed_count": 182,
+  "quality_count": 0,
+  "results": []
 }
