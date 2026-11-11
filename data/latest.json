@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-10 12:36:19",
-  "analyzed_count": 187,
-  "quality_count": 1,
+  "generated_at": "2026-11-11 10:44:51",
+  "analyzed_count": 184,
+  "quality_count": 2,
   "results": [
     {
       "code": "2468",
       "ticker": "2468.TW",
       "name": "華經",
       "market": "上市",
-      "score": 68,
-      "grade": "B級觀察",
-      "close": 63.6,
-      "entry_low": 62.65,
-      "entry_high": 64.24,
-      "stop": 54.16,
-      "resistance": 67.42,
+      "score": 85,
+      "grade": "A+主選",
+      "close": 69.4,
+      "entry_low": 68.36,
+      "entry_high": 70.09,
+      "stop": 55.43,
+      "resistance": 73.56,
       "win_rate": 42.9,
       "signals": 7,
       "avg_return": 7.2,
-      "daily_score": 58,
-      "score_60m": 10,
+      "daily_score": 61,
+      "score_60m": 24,
       "reasons": [
         "站上MA10",
         "MA10>MA20",
@@ -27,14 +27,53 @@
         "MA10上彎",
         "MACD轉強",
         "J值上彎",
+        "量能健康",
         "價漲量增",
-        "60分K MA10>MA20",
-        "60分K MA10上彎"
+        "突破20日高",
+        "突破60日高",
+        "60分K站上MA10",
+        "60分K MA10>MA20"
       ],
       "risks": [
-        "暫無明顯警訊"
+        "短線乖離過大"
       ],
-      "avg_value_m": 1381.1
+      "avg_value_m": 1500.6
+    },
+    {
+      "code": "2316",
+      "ticker": "2316.TW",
+      "name": "楠梓電",
+      "market": "上市",
+      "score": 69,
+      "grade": "B級觀察",
+      "close": 126.5,
+      "entry_low": 124.6,
+      "entry_high": 127.77,
+      "stop": 118.91,
+      "resistance": 174.5,
+      "win_rate": 50.0,
+      "signals": 42,
+      "avg_return": 7.16,
+      "daily_score": 37,
+      "score_60m": 24,
+      "reasons": [
+        "站上MA10",
+        "MACD轉強",
+        "MACD綠柱縮短",
+        "J值上彎",
+        "J值低檔轉強",
+        "量能健康",
+        "乖離合理",
+        "60分K站上MA10",
+        "60分K MA10>MA20",
+        "60分K MA10上彎",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "跌破MA20"
+      ],
+      "avg_value_m": 310.6
     }
   ]
 }
