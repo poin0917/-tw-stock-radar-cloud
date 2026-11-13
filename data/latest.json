@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-11-12 11:47:31",
+  "generated_at": "2026-11-13 11:23:13",
   "analyzed_count": 184,
-  "quality_count": 0,
-  "results": []
+  "quality_count": 2,
+  "results": [
+    {
+      "code": "2468",
+      "ticker": "2468.TW",
+      "name": "華經",
+      "market": "上市",
+      "score": 78,
+      "grade": "A級主選",
+      "close": 74.2,
+      "entry_low": 73.09,
+      "entry_high": 74.94,
+      "stop": 57.83,
+      "resistance": 78.65,
+      "win_rate": 42.9,
+      "signals": 7,
+      "avg_return": 7.2,
+      "daily_score": 54,
+      "score_60m": 24,
+      "reasons": [
+        "站上MA10",
+        "MA10>MA20",
+        "MA20>MA60",
+        "MA10上彎",
+        "MACD轉強",
+        "J值上彎",
+        "量能健康",
+        "突破20日高",
+        "突破60日高",
+        "60分K站上MA10",
+        "60分K MA10>MA20",
+        "60分K MA10上彎"
+      ],
+      "risks": [
+        "短線乖離過大"
+      ],
+      "avg_value_m": 1753.0
+    },
+    {
+      "code": "2404",
+      "ticker": "2404.TW",
+      "name": "漢唐",
+      "market": "上市",
+      "score": 69,
+      "grade": "B級觀察",
+      "close": 1025.0,
+      "entry_low": 1009.62,
+      "entry_high": 1035.25,
+      "stop": 963.5,
+      "resistance": 1130.0,
+      "win_rate": 63.1,
+      "signals": 65,
+      "avg_return": 7.04,
+      "daily_score": 32,
+      "score_60m": 24,
+      "reasons": [
+        "站上MA10",
+        "MACD轉強",
+        "MACD綠柱縮短",
+        "J值上彎",
+        "量能健康",
+        "量縮後回溫",
+        "乖離合理",
+        "60分K站上MA10",
+        "60分K MA10>MA20",
+        "60分K MA10上彎",
+        "60分K MACD轉強",
+        "60分K J值上彎"
+      ],
+      "risks": [
+        "跌破MA20"
+      ],
+      "avg_value_m": 892.0
+    }
+  ]
 }
