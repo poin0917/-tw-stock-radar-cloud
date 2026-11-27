@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-11-26 12:58:00",
-  "analyzed_count": 185,
-  "quality_count": 1,
-  "results": [
-    {
-      "code": "2316",
-      "ticker": "2316.TW",
-      "name": "楠梓電",
-      "market": "上市",
-      "score": 75,
-      "grade": "B級觀察",
-      "close": 110.5,
-      "entry_low": 108.84,
-      "entry_high": 111.61,
-      "stop": 103.87,
-      "resistance": 153.5,
-      "win_rate": 50.0,
-      "signals": 42,
-      "avg_return": 7.16,
-      "daily_score": 43,
-      "score_60m": 24,
-      "reasons": [
-        "站上MA10",
-        "MACD轉強",
-        "J值上彎",
-        "J值低檔轉強",
-        "量能健康",
-        "價漲量增",
-        "乖離合理",
-        "60分K站上MA10",
-        "60分K MA10>MA20",
-        "60分K MA10上彎",
-        "60分K MACD轉強",
-        "60分K J值上彎"
-      ],
-      "risks": [
-        "跌破MA20"
-      ],
-      "avg_value_m": 372.5
-    }
-  ]
+  "generated_at": "2026-11-27 12:58:05",
+  "analyzed_count": 184,
+  "quality_count": 0,
+  "results": []
 }
